@@ -26,9 +26,11 @@ ETL
 
 
 * To install mysql.connector:
-pip install mysql.connector
+
+   pip install mysql.connector
 * To install pandas:
-pip install pandas
+
+   pip install pandas
 
 🔹References:
 * MySQL Connector Python
