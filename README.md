@@ -12,7 +12,6 @@ ETL
 * Spyder
 * Pandas
 * MySQL connector
-* 
 
 🔹Working:
 
