@@ -16,7 +16,7 @@ ETL
 🔹Working:
 
 * step 1: Firstly MySQL database has been created with specified schema.
-* step 2: incubyte.py python script, reading sample text file
+* step 2: <a href="https://github.com/dbda-pooja/Incubyte/blob/master/sourceCode/incubyte.py">incubyte.py </a>python script, reading sample text file
 * step 3: connecting mysql server
 * step 4: iterating throught read data and storing it in mysql database
 * step 5: The retrieved data is fitted into pandas dataframe for further table manipulation.
