@@ -3,14 +3,16 @@
 This repository made to demonstrate implementation of given assessment.Also, a dummy database has been created to demonstarte a simple data flow in different formats from server to the local system, using country-based row filteration. For demonstrating working of data pipeline different tools are used which are listed below
 
 🔸Concepts:
-Data processing
+*Data processing
 ETL
+
 🔸Tools & Technologies:
-Python
-MySQL Workbench
-Spyder
-Pandas
-MySQL connector
+* Python
+* MySQL Workbench
+* Spyder
+* Pandas
+* MySQL connector
+
 🔹Working:
 step 1: Firstly MySQL database has been created with specified schema.
 step 2: incubyte.py python script, reading sample text file
