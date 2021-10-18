@@ -1,0 +1,4 @@
+Customer_ID,Customer_Name,Customer_Open_Date,Last_Consulted_Date,Vaccination_Type,Doctor_Consulted,State,Country,Post_Code,Date_of_Birth,Active_Customer
+123457,Alex,2010-10-12,2012-10-13,MVD,Paul,SA,USA,,1987-06-03,A
+123459,Pooja,2010-10-12,2012-10-13,MVD,Paul,TN,USA,,1987-03-06,A
+123467,Rupali,2010-10-12,2012-10-13,MVD,Paul,TN,USA,,1987-03-06,A

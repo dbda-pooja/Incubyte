@@ -1,0 +1,5 @@
+Customer_ID,Customer_Name,Customer_Open_Date,Last_Consulted_Date,Vaccination_Type,Doctor_Consulted,State,Country,Post_Code,Date_of_Birth,Active_Customer
+123458,John,2010-10-12,2012-10-13,MVD,Paul,TN,IND,,1987-06-03,A
+12335,Rutuja,2010-10-12,2012-10-13,MVD,Jon,MH,IND,,1987-03-06,A
+12355,Umesh,2010-10-12,2012-10-13,MVD,Jon,MH,IND,,1987-03-06,A
+12327,Vaibhav,2010-10-12,2012-10-13,MVD,Jon,MH,IND,,1987-03-06,A
