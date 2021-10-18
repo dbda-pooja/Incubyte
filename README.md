@@ -22,13 +22,13 @@ ETL
 * step 5: The retrieved data is fitted into pandas dataframe for further table manipulation.
 * step 6: get_data() & store_file() functions are called to fetch the desired data rows and generating .csv and string file formats to specified path, accepting country names as            parameters for filtering rows.
          For example: get_file("IND") generates IND.csv to the specified local path. CLick here to see sample output files.
-*step 7: git push and commit is done by using GitBash.
+* step 7: git push and commit is done by using GitBash.
 
 
-*To install mysql.connector:
+* To install mysql.connector:
 pip install mysql.connector
-*To install pandas:
+* To install pandas:
 pip install pandas
 🔹References:
-*MySQL Connector Python
-*Pandas docs
+* MySQL Connector Python
+* Pandas docs
